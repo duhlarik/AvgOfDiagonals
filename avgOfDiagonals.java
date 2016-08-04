@@ -21,7 +21,6 @@ public class avgOfDiagonals {
 				scan1.nextLine();
 				nums[i][j] = number;
 			}
-
 		}
 		for (i = 0; i < size; i++) {
 			for (j = 0; j < size; j++) {
@@ -47,5 +46,4 @@ public class avgOfDiagonals {
 
 		scan1.close();
 	}
-
 }
